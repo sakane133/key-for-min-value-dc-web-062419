@@ -9,5 +9,6 @@ name_hash.each do |k, value|
     min_k = k 
     min_v = value
  end
+ end
   min_k
 end
